@@ -1,6 +1,6 @@
 {
-  "script":{
-    "build":"npm run build"
+  "scripts":{
+    "build":"npm i"
   },
   "dependencies": {
     "cors": "^2.8.5",
